@@ -44,6 +44,6 @@
     "scripts",
     "acceptance-tests",
     "webpack",
-    "jest",
+    "jest"
   ]
 }
