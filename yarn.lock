@@ -3643,10 +3643,10 @@ dahlia-request@^1.1.0:
     cross-fetch "^3.0.1"
     qs "^6.7.0"
 
-dahlia-rest@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.npm.taobao.org/dahlia-rest/download/dahlia-rest-1.1.3.tgz#a512b301d21b00617904327ad3ad0df3675dcccf"
-  integrity sha1-pRKzAdIbAGF5BDJ6060N82ddzM8=
+dahlia-rest@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.npm.taobao.org/dahlia-rest/download/dahlia-rest-1.1.4.tgz#069aeeb0bc9370a43fab604e5f56399e0c5b13c7"
+  integrity sha1-BprusLyTcKQ/q2BOX1Y5ngxbE8c=
   dependencies:
     dahlia-request "^1.1.0"
 
@@ -3658,10 +3658,10 @@ dahlia-router@^1.3.2:
     dahlia-store "^1.3.1"
     path-parser "^4.2.0"
 
-dahlia-scripts@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npm.taobao.org/dahlia-scripts/download/dahlia-scripts-1.0.2.tgz#1d817f849754fdf8a0cb8e8ce93ffdc1b035ed44"
-  integrity sha1-HYF/hJdU/figy46M6T/9wbA17UQ=
+dahlia-scripts@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npm.taobao.org/dahlia-scripts/download/dahlia-scripts-1.0.5.tgz#59de06d97b7acce1e5e1bcc538a9886d9c4d697f"
+  integrity sha1-Wd4G2Xt6zOHl4bzFOKmIbZxNaX8=
   dependencies:
     "@oclif/command" "^1.5.14"
     "@oclif/config" "^1.13.0"
@@ -3693,10 +3693,10 @@ dahlia-store@^1.3.1:
     dahlia-observable "^1.1.0"
     fast-deep-equal "^2.0.1"
 
-dahlia@^1.15.4:
-  version "1.15.4"
-  resolved "https://registry.npm.taobao.org/dahlia/download/dahlia-1.15.4.tgz?cache=0&sync_timestamp=1561426565036&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdahlia%2Fdownload%2Fdahlia-1.15.4.tgz#baf7ad9a8cd8d0c936b933ec8fa065a402cccb1a"
-  integrity sha1-uvetmozY0Mk2uTPsj6BlpALMyxo=
+dahlia@^1.15.6:
+  version "1.15.6"
+  resolved "https://registry.npm.taobao.org/dahlia/download/dahlia-1.15.6.tgz#d3ba83eaa250de13b155bdd079c442dfcb7cbe6b"
+  integrity sha1-07qD6qJQ3hOxVb3QecRC38t8vms=
   dependencies:
     "@types/styled-components" "^4.1.14"
     "@types/styled-jsx" "^2.2.8"
@@ -3713,7 +3713,7 @@ dahlia@^1.15.4:
     dahlia-graphql "^1.1.3"
     dahlia-i18n "^1.0.4"
     dahlia-modal "^1.2.2"
-    dahlia-rest "^1.1.3"
+    dahlia-rest "^1.1.4"
     dahlia-router "^1.3.2"
     dahlia-store "^1.3.1"
     gery "^1.1.3"
