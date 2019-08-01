@@ -36,10 +36,13 @@
       "@hooks/*": ["hooks/*"],
       "@dto/*": ["dto/*"],
       "@images/*": ["images/*"],
+      "@css/*": ["css/*"],
+      "@stylesheets/*": ["stylesheets/*"],
       "@config/*": ["config/*"],
       "@constants/*": ["constants/*"],
       "@interfaces/*": ["interfaces/*"],
-      "@locales/*": ["locales/*"]
+      "@locales/*": ["locales/*"],
+      "@types/*": ["types/*"]
     }
   },
   "include": ["src"]
